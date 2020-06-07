@@ -18,7 +18,7 @@ This is the project of a magical staff using micro:bit.
 |:-----------|------------:|
 |[micro:bit](https://microbit.org/)|1|
 |[yin:bit ver 1.2](https://github.com/GomiHgy/yin_bit)|1|
-|[Full colour serial LED tape (1m)](https://www.digitspace.com/93-bit-ws2812b-5050-rgb-led-full-color-driver-board?ab160371956d1db0)|1|
+|[93 Bit WS2812B 5050 RGB LED Full Color Driver Board](https://www.digitspace.com/93-bit-ws2812b-5050-rgb-led-full-color-driver-board?ab160371956d1db0)|1|
 |Tact switch|2|
 |USB Type-A Connerctor (m)|1|
 |USB Type-A Connerctor (f)|1|
