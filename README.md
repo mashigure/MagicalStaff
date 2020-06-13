@@ -35,8 +35,8 @@ This is the project of a magical staff using micro:bit.
 
 + 3Dmodels/MagicalStaff_Main_front.stl
 + 3Dmodels/MagicalStaff_Main_back.stl
-+ 3Dmodels/MagicalStaff_Horn.stl   --- Right part
-+ 3Dmodels/MagicalStaff_Horn_reverse.stl   --- Left part
++ 3Dmodels/MagicalStaff_Horn.stl   --- Left part
++ 3Dmodels/MagicalStaff_Horn_reverse.stl   --- Right part
 + 3Dmodels/yinbit1_2_mount_top.stl
 + 3Dmodels/yinbit1_2_mount_under.stl
 + 3Dmodels/MagicalStaff_LEDSpacer.stl
@@ -60,4 +60,7 @@ This is the project of a magical staff using micro:bit.
 
 [Parts](img/Parts.jpg)  
 ![Parts](img/Thum/Parts.jpg)
+
+[Stick Part](img/StickPart.jpg)  
+![Stick Part](img/Thum/StickPart.jpg)
 
